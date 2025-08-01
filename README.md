@@ -5,6 +5,7 @@ Given the root of a binary tree, invert the tree, and return its root.
 We can invert a binary tree by swapping the element of left and right nodes of a tree.
 
 <img width="753" height="266" alt="image" src="https://github.com/user-attachments/assets/5d983b8b-c983-446c-a554-bd76755840b7" />
+
 The base case is if there is no root , then return None.
 
 # Algorithm
